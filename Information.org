@@ -38,6 +38,8 @@ Here are a few examples and tutorials to get started/refresh your skills, starti
 **** [[https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html][Keras walkthrough]]
 **** [[https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html][Google Deep Dream]]
 **** [[https://github.com/jacobgil/keras-filter-visualization][Github Keras Visualization]]
+**** [[http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html]["Regular" Image Convolutions]]
+**** [[http://setosa.io/ev/image-kernels/]["Interactive image convolutions"]]
 *** Layer Visualization:
 **** [[https://github.com/raghakot/keras-vis][keras-vis]]
 ***** [[https://raghakot.github.io/keras-vis/#getting-started][Documentation]]
