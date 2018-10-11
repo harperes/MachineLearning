@@ -27,24 +27,30 @@ Here are a few examples and tutorials to get started/refresh your skills, starti
 **** [[https://github.com/drscotthawley/audio-classifier-keras-cnn][Audio Classifier]]
 * Reference:                                                    :information:
 ** Artificial Neural Networks
+*** [[https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c][Install Tensorflow with Conda, not pip]]
 *** [[https://towardsdatascience.com/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc][Brief Overview]]
 *** [[https://skymind.ai/wiki/neural-network][Deeper Overview]]
 *** [[https://towardsdatascience.com/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc][Gentle Introduction]]
 *** [[https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0][Activation Functions]]
 *** [[https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463][Network Cheat Sheets]]
 *** [[https://isaacchanghau.github.io/post/loss_functions/][Loss Functions]]
+*** Overfitting:
+**** [[https://en.wikipedia.org/wiki/Overfitting#Machine_learning][Wikipedia]]
+**** [[https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6][Training/Testing/Cross-validation]]
+**** [[https://keras.rstudio.com/articles/training_visualization.html][Visualization of training history]]
 *** Convolutional Neural Nets:
 **** [[https://jacobgil.github.io/deeplearning/filter-visualizations][Visualizing CNN filters with keras]]
 **** [[https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html][Keras walkthrough]]
+***** [[https://keras.io/getting-started/functional-api-guide/][Keras Functional API]]
 **** [[https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html][Google Deep Dream]]
 **** [[https://github.com/jacobgil/keras-filter-visualization][Github Keras Visualization]]
 **** [[http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html]["Regular" Image Convolutions]]
 **** [[http://setosa.io/ev/image-kernels/]["Interactive image convolutions"]]
+**** [[https://www.kaggle.com/keras/resnet50/discussion][ResNet50]]
 *** Layer Visualization:
 **** [[https://github.com/raghakot/keras-vis][keras-vis]]
 ***** [[https://raghakot.github.io/keras-vis/#getting-started][Documentation]]
 **** GET LINK FROM EXAMPLE
-*** [[https://www.kaggle.com/keras/resnet50/discussion][ResNet50]]
 *** Recurrent Neural Nets (RNNs)
 **** [[https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html][Ten minute intro]]
 ***** [[https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py][Code]]
@@ -68,6 +74,10 @@ Here are a few examples and tutorials to get started/refresh your skills, starti
 ** Multilabel classification
 Currently unsure if "multilabel" is the correct way to conveyr what we are wanting to do
 *** [[https://datascience.stackexchange.com/questions/28003/get-multiple-output-from-keras][Simple answer]]
+*** [[http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/][Facial Keypoints]]
+**** Should be useful as an example of regression of mulitple quantities
+*** [[https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/][Multilabel Classification of clothes]]
+*** [[https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/][Multiple output classification of clothes]]
 * Other Interesting Data Sets:                                         :data:
 The following are Kaggle (or possibly other) datasets that are of interest for practice/training/excercise purposes:
 ** [[https://www.kaggle.com/c/pubg-finish-placement-prediction][Group Competition/Project: PUBG]]
